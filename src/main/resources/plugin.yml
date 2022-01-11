@@ -1,0 +1,7 @@
+main: com.fireflyest.essential.Essential
+name: Essential
+version: 1.0-SNAPSHOT
+description: 基础插件核心
+api-version: 1.13
+authors: [Fireflyest]
+website: www.spigotmc.org
